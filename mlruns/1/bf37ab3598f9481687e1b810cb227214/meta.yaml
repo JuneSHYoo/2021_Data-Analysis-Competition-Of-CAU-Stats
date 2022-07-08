@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/UserK/%ED%86%B5%EB%B2%A4%EC%A0%B8%EC%8A%A4/mlruns/1/bf37ab3598f9481687e1b810cb227214/artifacts
+end_time: 1636628038387
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: bf37ab3598f9481687e1b810cb227214
+run_uuid: bf37ab3598f9481687e1b810cb227214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1636628038174
+status: 3
+tags: []
+user_id: UserK
